@@ -2,6 +2,6 @@
 
 # Imagens das execuções no terminal.
 
-![](img/img1.PNG)
-![](img/img2.PNG)
-![](img/img3.PNG)
+![](img1.PNG)
+![](img2.PNG)
+![](img3.PNG)
